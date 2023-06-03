@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="createAccount">Create Account</string>
+    <string name="name">Name</string>
+    <string name="fullName">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Log In</string>
+    <string name="forgotPass">Forgot Password?</string>
+    <string name="backToRegister">Back to registration</string>
+    <string name="interests">Interests</string>
+    <string name="resetPass">Reset</string>
+    <string name="backToLogin">Back to login</string>
+    <string name="articleImage">Article Image</string>
+    <string name="title">TITLE</string>
+    <string name="source">SOURCE</string>
+    <string name="publishedAt">PUBLISHED AT</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="log_out">Log Out</string>
+    <string name="refresh">Refresh</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="search_news">Search News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="search">Search…</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="nav_header_desc">nav_header_img</string>
+    <string name="visit_your_favourite_categories">Visit your favourite categories</string>
+    <string name="sports_news">Sports News</string>
+    <string name="save_article_button">Save article button</string>
+</resources>
